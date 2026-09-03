@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.6.0/ArbitrageRadar_v0.6.0_Update.zip",
-  "sha256": "a990f6e725284adac0b0f0aff538136a8079b5ceff18cbf6ed5091a03e6dd5d7",
-  "notes": "Paper Execution: реальные комиссии READ API, Max $ по BBO, balance preflight, симуляция двух ног, журнал PAPER Classic, KuCoin WS fix и MEXC Protobuf BBO 100ms. Реальные ордера заблокированы."
+  "version": "0.7.0",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.7.0/ArbitrageRadar_v0.7.0_Update.zip",
+  "sha256": "5aa9183894042b03f608c7b8051900730762c5aac7367a90b904b685f7116b0d",
+  "notes": "Переход на основной контур Relative Value: Basis + Funding как главные рабочие инструменты; Classic остаётся вспомогательным. Реальные ордера заблокированы до PAPER-валидации."
 }
