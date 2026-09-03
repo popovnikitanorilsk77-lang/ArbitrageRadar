@@ -1,6 +1,6 @@
 {
-  "version": "0.5.4",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.5.4/ArbitrageRadar_v0.5.4_Update.zip",
-  "sha256": "b28ad16b291c2b5dc2b127ef698b6c3588dfa10c440c4a5bf67e0f4a8571d63d",
-  "notes": "API Connect: пошаговое подключение Bybit/OKX/MEXC/KuCoin, корректные обязательные поля, проверка READ и балансов прямо из окна API. Реальная торговля остаётся заблокирована."
+  "version": "0.6.0",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.6.0/ArbitrageRadar_v0.6.0_Update.zip",
+  "sha256": "a990f6e725284adac0b0f0aff538136a8079b5ceff18cbf6ed5091a03e6dd5d7",
+  "notes": "Paper Execution: реальные комиссии READ API, Max $ по BBO, balance preflight, симуляция двух ног, журнал PAPER Classic, KuCoin WS fix и MEXC Protobuf BBO 100ms. Реальные ордера заблокированы."
 }
