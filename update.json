@@ -1,6 +1,6 @@
 {
-  "version": "0.5.3",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.5.3/ArbitrageRadar_v0.5.3_Update.zip",
-  "sha256": "1ef4d20e1517cec80754d4c6d092f43c66aa70c1a5a461a9f22ead1807115092",
-  "notes": "Контрольный релиз GitHub Auto Update. После установки заголовок приложения станет v0.5.3, а окно обновлений покажет GitHub auto-update: АКТИВЕН."
+  "version": "0.5.4",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.5.4/ArbitrageRadar_v0.5.4_Update.zip",
+  "sha256": "b28ad16b291c2b5dc2b127ef698b6c3588dfa10c440c4a5bf67e0f4a8571d63d",
+  "notes": "API Connect: пошаговое подключение Bybit/OKX/MEXC/KuCoin, корректные обязательные поля, проверка READ и балансов прямо из окна API. Реальная торговля остаётся заблокирована."
 }
