@@ -1,6 +1,6 @@
 {
-  "version": "0.7.1",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.7.1/ArbitrageRadar_v0.7.1_Update.zip",
-  "sha256": "6eb500ee64c5f4691e3dc557a5f6022a6d092d962b995e5dd7547a648c2e3599",
-  "notes": "Relative Value Core: Basis Lab, Funding Lab и Pairs/Relative Value стали основными. Pairs использует rolling OLS, beta, correlation of returns, z-score и half-life; добавлен PAPER Relative Value с автоматическим mean-exit/stop. Исправлена рассинхронизация версии, нулевые fee API больше не принимаются как бесплатная торговля. Classic оставлен вспомогательным. Реальные ордера заблокированы."
+  "version": "0.7.2",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.7.2/ArbitrageRadar_v0.7.2_Update.zip",
+  "sha256": "b2f6083063dd3c18bb490572c402bee6dc58e52c0bcb1be395cf094d0bb48611",
+  "notes": "Overnight Research: 1h rolling window, minimum 360 samples, beta stability, signal persistence and AUTO PAPER only for gated candidates. Live orders remain blocked."
 }
