@@ -1,6 +1,6 @@
 {
-  "version": "0.8.2",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.2/ArbitrageRadar_v0.8.2_Update.zip",
-  "sha256": "adeb1951e8daf10f4d68c394677bf8726c79a8bd1ec3ace197b10b6dfaaed9c4",
-  "notes": "Research UI Performance: walk-forward moved to background QThread, 5-min result cache, batched table rendering, fixed row geometry and pixel scrolling. Market collection continues independently."
+  "version": "0.8.3",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.3/ArbitrageRadar_v0.8.3_Update.zip",
+  "sha256": "3fd1991aa0ada2976ad281d3720cbc7d01b6227ad192c7bc95a77b12c7ff12a2",
+  "notes": "Research Engine Audit: Dashboard -> QTableView/model; walk-forward moved to separate OS process; Gross/Costs/Net columns; next-bar execution; corrected full round-trip costs; Profit Factor and stricter PROMISING gate. Live orders blocked."
 }
