@@ -1,6 +1,6 @@
 {
-  "version": "0.8.1",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.1/ArbitrageRadar_v0.8.1_Update.zip",
-  "sha256": "3a6d7676e7502a491f1e2a7a126a813949d89400906d834ac6fd48b39bca35cf",
-  "notes": "Performance Hotfix: SQLite pruning вынесен из hot path, Pairs heavy analysis 30s при sampling 5s, UI refresh >=500ms, Research walk-forward считается только при открытой вкладке. История и финансовая логика сохраняются."
+  "version": "0.8.2",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.2/ArbitrageRadar_v0.8.2_Update.zip",
+  "sha256": "adeb1951e8daf10f4d68c394677bf8726c79a8bd1ec3ace197b10b6dfaaed9c4",
+  "notes": "Research UI Performance: walk-forward moved to background QThread, 5-min result cache, batched table rendering, fixed row geometry and pixel scrolling. Market collection continues independently."
 }
