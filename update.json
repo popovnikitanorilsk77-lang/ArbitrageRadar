@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.0/ArbitrageRadar_v0.8.0_Update.zip",
-  "sha256": "0f8f726a2dea8fe6b9f6a88d58014f12ca23b8956d7e0b6acbf6e59ec3509f1f",
-  "notes": "Research Engine: новый Research Dashboard; Pairs walk-forward с costs, win rate, Net и max drawdown; до 50k price samples на актив; Funding history/persistence и Net 8/24/72h; Basis history z-score; forward/reverse basis разделены, reverse заблокирован без borrow availability/rate; Funding/Basis автообновление каждые 15 секунд. Реальные ордера остаются заблокированными."
+  "version": "0.8.1",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.1/ArbitrageRadar_v0.8.1_Update.zip",
+  "sha256": "3a6d7676e7502a491f1e2a7a126a813949d89400906d834ac6fd48b39bca35cf",
+  "notes": "Performance Hotfix: SQLite pruning вынесен из hot path, Pairs heavy analysis 30s при sampling 5s, UI refresh >=500ms, Research walk-forward считается только при открытой вкладке. История и финансовая логика сохраняются."
 }
