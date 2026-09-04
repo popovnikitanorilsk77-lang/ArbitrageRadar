@@ -1,6 +1,6 @@
 {
-  "version": "0.8.3",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.3/ArbitrageRadar_v0.8.3_Update.zip",
-  "sha256": "3fd1991aa0ada2976ad281d3720cbc7d01b6227ad192c7bc95a77b12c7ff12a2",
-  "notes": "Research Engine Audit: Dashboard -> QTableView/model; walk-forward moved to separate OS process; Gross/Costs/Net columns; next-bar execution; corrected full round-trip costs; Profit Factor and stricter PROMISING gate. Live orders blocked."
+  "version": "0.8.3.2",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.3.2/ArbitrageRadar_v0.8.3.2_Update.zip",
+  "sha256": "616caa79f83017b33646c4091d69a655ef63c1f5d49cc896e04ae60a2d98e753",
+  "notes": "Research Process Hotfix: fixed Opportunity payload contract for subprocess; defensive Funding/Basis serialization; functional subprocess smoke-tested. QTableView/model architecture retained."
 }
