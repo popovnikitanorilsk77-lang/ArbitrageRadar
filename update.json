@@ -1,6 +1,6 @@
 {
-  "version": "0.8.3.3",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.3.3/ArbitrageRadar_v0.8.3.3_Update.zip",
-  "sha256": "25905d89b1a8112bbbf18a758787af53b58802e27d17273df97d9d04d26fccc0",
-  "notes": "Windows UTF-8 hotfix: Research subprocess stdin/stdout forced to UTF-8; fixes json.dump failure on Cyrillic research rows."
+  "version": "0.8.4",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.4/ArbitrageRadar_v0.8.4_Update.zip",
+  "sha256": "de60af0f3af479606eed03247bd944edb3c57689e2b7cb85fd2d56be8624d8a5",
+  "notes": "Execution Economics: actual funding settlements 5/7/14/30d, maker+taker fees, TT/MT/MM scenarios, Edge/Cost gate for Pairs, OKX/KuCoin borrow rate+availability for reverse basis. Live orders blocked."
 }
