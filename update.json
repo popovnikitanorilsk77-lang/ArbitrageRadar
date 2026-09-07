@@ -1,6 +1,6 @@
 {
-  "version": "0.8.4",
-  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.4/ArbitrageRadar_v0.8.4_Update.zip",
-  "sha256": "de60af0f3af479606eed03247bd944edb3c57689e2b7cb85fd2d56be8624d8a5",
-  "notes": "Execution Economics: actual funding settlements 5/7/14/30d, maker+taker fees, TT/MT/MM scenarios, Edge/Cost gate for Pairs, OKX/KuCoin borrow rate+availability for reverse basis. Live orders blocked."
+  "version": "0.8.5",
+  "zip_url": "https://github.com/popovnikitanorilsk77-lang/ArbitrageRadar/releases/download/v0.8.5/ArbitrageRadar_v0.8.5_Update.zip",
+  "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
+  "notes": "Risk-adjusted model: actual funding settlements with effective windows, maker execution Wilson LCB95 + adverse selection, cross-exchange gap risk, PERP pairs with funding reserve, AR(1) basis forecast. Live orders blocked."
 }
